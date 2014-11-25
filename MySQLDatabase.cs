@@ -132,7 +132,7 @@ namespace AspNet.Identity.MySQL
 
             return rows;
         }
-
+       
         /// <summary>
         /// Opens a connection if not open
         /// </summary>

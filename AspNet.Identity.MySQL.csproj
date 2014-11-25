@@ -43,6 +43,9 @@
     <Reference Include="MySql.Data">
       <HintPath>packages\MySql.Data.6.7.4\lib\net40\MySql.Data.dll</HintPath>
     </Reference>
+    <Reference Include="Simplify.Mail">
+      <HintPath>packages\Simplify.Mail.1.2.0.0\lib\net45\Simplify.Mail.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Configuration" />
